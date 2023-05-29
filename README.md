@@ -15,7 +15,10 @@ and algorithms from Explainable k-means and applies them to the Statlog Vehicle 
 > Irvine, CA: University of California, 
 > School of Information and Computer Science.
 
+Description of the dataset:
 ![image2](readme_media/ppt1.png)
+
+Dateset kmeans distance by different K:
 
 ![image1](readme_media/distance.png)
 
